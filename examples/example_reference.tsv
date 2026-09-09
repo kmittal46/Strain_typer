@@ -1,1 +1,10 @@
-
+isolate	substrain	strain
+genome_A	genome_A	cluster_1
+genome_B	genome_B	cluster_1
+genome_C	genome_C	cluster_1
+genome_D	genome_D	cluster_2
+genome_E	genome_E	cluster_2
+genome_F	genome_F	cluster_2
+genome_G	genome_G	cluster_3
+genome_H	genome_H	cluster_3
+genome_I	genome_I	cluster_3
