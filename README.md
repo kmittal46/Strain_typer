@@ -335,6 +335,3 @@ The repository intentionally does not contain large genome datasets or millions
 of pairwise comparisons. Keep large input and result files outside GitHub and
 use the included small example to demonstrate the workflow.
 
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
