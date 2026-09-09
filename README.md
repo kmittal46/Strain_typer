@@ -318,7 +318,6 @@ Strain_typer/
 ├── strain_typer.py
 ├── README.md
 ├── requirements.txt
-├── LICENSE
 ├── .gitignore
 ├── examples/
 │   ├── example_comparisons.tsv
